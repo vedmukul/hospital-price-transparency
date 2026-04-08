@@ -1,0 +1,14 @@
+data/*.parquet
+data/*.pkl
+models/*.json
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+*.log
+.pytest_cache/
